@@ -7,6 +7,9 @@
         <option value="$PROJECT_DIR$/springCloud-learn-character02/config-server/pom.xml" />
         <option value="$PROJECT_DIR$/springCloud-learn-character02/config-client/pom.xml" />
         <option value="$PROJECT_DIR$/springCloud-learn-character02/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springCloud-learn-character03/pom.xml" />
+        <option value="$PROJECT_DIR$/springCloud-learn-character03/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/springCloud-learn-character03/service-miya/pom.xml" />
       </list>
     </option>
   </component>

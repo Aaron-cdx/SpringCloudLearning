@@ -6,7 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/springCloud-learn-character02/config-client/config-client.iml" filepath="$PROJECT_DIR$/springCloud-learn-character02/config-client/config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/springCloud-learn-character02/config-server/config-server.iml" filepath="$PROJECT_DIR$/springCloud-learn-character02/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/springCloud-learn-character02/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/springCloud-learn-character02/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud-learn-character03/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/springCloud-learn-character03/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud-learn-character03/service-miya/service-miya.iml" filepath="$PROJECT_DIR$/springCloud-learn-character03/service-miya/service-miya.iml" />
       <module fileurl="file://$PROJECT_DIR$/springCloud-learn-character02/springCloud-learn-character02.iml" filepath="$PROJECT_DIR$/springCloud-learn-character02/springCloud-learn-character02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud-learn-character03/springCloud-learn-character03.iml" filepath="$PROJECT_DIR$/springCloud-learn-character03/springCloud-learn-character03.iml" />
     </modules>
   </component>
 </project>
