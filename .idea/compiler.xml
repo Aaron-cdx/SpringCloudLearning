@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="config-server" />
+        <module name="eureka-server" />
         <module name="config-client" />
         <module name="springCloud-learn-character02" />
       </profile>
@@ -14,6 +15,7 @@
     <bytecodeTargetLevel>
       <module name="config-client" target="1.8" />
       <module name="config-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
       <module name="springCloud-learn-character02" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -21,6 +23,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="config-client" options="-parameters" />
       <module name="config-server" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
       <module name="springCloud-learn-character02" options="-parameters" />
     </option>
   </component>

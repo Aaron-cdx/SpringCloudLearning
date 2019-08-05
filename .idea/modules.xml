@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/SpringCloudLearning.iml" filepath="$PROJECT_DIR$/SpringCloudLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/springCloud-learn-character02/config-client/config-client.iml" filepath="$PROJECT_DIR$/springCloud-learn-character02/config-client/config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/springCloud-learn-character02/config-server/config-server.iml" filepath="$PROJECT_DIR$/springCloud-learn-character02/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud-learn-character02/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/springCloud-learn-character02/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/springCloud-learn-character02/springCloud-learn-character02.iml" filepath="$PROJECT_DIR$/springCloud-learn-character02/springCloud-learn-character02.iml" />
     </modules>
   </component>
